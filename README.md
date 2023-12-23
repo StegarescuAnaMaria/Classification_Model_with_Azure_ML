@@ -1,4 +1,3 @@
-# Classification_Model_with_Azure_ML
 Dataset source: https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
 
 The purpose of the experiment is finding the best classification model out of 4: Logistic Regression, Decision Jungle, Decision Forest and Neural Networks, and deploying said model as a web service end point.
